@@ -1,0 +1,3 @@
+This is a text file
+To open the file, use the built-in open() function. Don to forget to close the file using close(function)
+You can return one line by using the readline() method
